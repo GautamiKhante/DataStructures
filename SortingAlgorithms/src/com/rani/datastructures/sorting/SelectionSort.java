@@ -16,12 +16,12 @@ public class SelectionSort {
             }
             swap(intArray, largest, lastUnsortedIndex);
         }
-        for (int i = 0; i < intArray.length; i++) {
-            System.out.println(intArray[i]);
+        for (int j : intArray) {
+            System.out.println(j);
         }
     }
 
-    public static void swap(int intArray[], int i, int j) {
+    public static void swap(int[] intArray, int i, int j) {
         if (i == j) {
             return;
         }

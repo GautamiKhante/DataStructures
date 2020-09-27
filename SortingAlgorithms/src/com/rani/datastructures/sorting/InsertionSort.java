@@ -15,8 +15,8 @@ public class InsertionSort {
             intArray[i] = newElement; // putting back the element in the position of the first unsorted index
 
         }
-        for (int i = 0 ; i< intArray.length ; i++){
-            System.out.println("Sorted Array " + intArray[i]);
+        for (int j : intArray) {
+            System.out.println(j);
         }
     }
 }
