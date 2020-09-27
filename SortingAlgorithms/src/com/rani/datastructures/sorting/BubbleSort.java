@@ -1,4 +1,4 @@
-package com.rani.datastructures;
+package com.rani.datastructures.sorting;
 
 public class BubbleSort {
 

@@ -1,4 +1,4 @@
-package com.rani.selectionsort;
+package com.rani.datastructures.sorting;
 
 public class SelectionSort {
 

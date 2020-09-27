@@ -1,4 +1,4 @@
-package com.rani.insertionsort;
+package com.rani.datastructures.sorting;
 
 public class InsertionSort {
     public static void main(String[] args) {
